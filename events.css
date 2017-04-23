@@ -1,0 +1,28 @@
+.blue {
+	color: blue;
+}
+
+.large {
+	font-size: xx-large;
+}
+
+.border {
+	border: 2px solid orange;
+}
+
+.rounded {
+	border-radius: 50px;
+}
+
+.block {
+	display: block;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.bolditalic {
+	font-weight: bold;
+	font-style: italic;
+}
